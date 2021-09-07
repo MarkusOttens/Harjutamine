@@ -1,0 +1,2 @@
+Github pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara. Github kasutavad õpilased.
+Ma saan kasutada Githubi nende leheküljel arvutis
