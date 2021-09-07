@@ -1,2 +1,3 @@
 Github pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara. Github kasutavad õpilased.
 Ma saan kasutada Githubi nende leheküljel arvutis.
+Github asutati 8.veebruar 2008 ja asutati nende poolt:Tom Preston-Werner Chris Wanstrath P. J. Hyett Scott Chacon
